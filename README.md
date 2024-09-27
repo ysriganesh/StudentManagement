@@ -80,8 +80,8 @@ Follow these steps to get the project up and running:
 2. **Navigate to the Project Directory**:
 
     ```bash
-    git clone https://github.com/username/student-management-system.git
-Copy code
+    cd student-management-system
+
 cd student-management-system
 Build and Run the Project:
 
