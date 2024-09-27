@@ -98,3 +98,10 @@ Unit tests are provided using JUnit and Mockito to ensure that the service metho
 To run the tests, use the following command:
    ```bash
    ./mvnw test
+<br>
+🔮 Future Enhancements
+We have exciting plans to expand the system’s capabilities in the future, such as:
+
+🔗 Database Integration: Connect the system with a database like MySQL to store student data permanently.
+📝 Update Functionality: Add the ability to update existing student records.
+⚠️ Input Validation: Ensure that the data entered is correct and follows the required format (e.g., valid email addresses).
