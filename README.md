@@ -77,10 +77,10 @@ Follow these steps to get the project up and running:
    git clone https://github.com/username/student-management-system.git
 
 <br> 
-Navigate to the Project Directory:
-bash
-Copy code
-cd student-management-system
+2. **Navigate to the Project Directory**:
+   ```bash
+     cd student-management-system
+<br>
 Build and Run the Project:
 bash
 Copy code
