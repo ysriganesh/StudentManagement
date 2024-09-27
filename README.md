@@ -92,6 +92,8 @@ Follow these steps to get the project up and running:
    ./mvnw test
 <br>
 
+---
+
 ✅ Testing
 Unit tests are provided using JUnit and Mockito to ensure that the service methods and endpoints function correctly.
 
