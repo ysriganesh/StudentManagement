@@ -78,24 +78,22 @@ Follow these steps to get the project up and running:
 
 <br> 
 Navigate to the Project Directory:
-<br>
- ```bash
+bash
+Copy code
 cd student-management-system
-
-## Build and Run the Project:
-<br>
- ```bash
-
+Build and Run the Project:
+bash
+Copy code
 ./mvnw spring-boot:run
-
-<br>
 ✅ Testing
 Unit tests are provided using JUnit and Mockito to ensure that the service methods and endpoints function correctly.
 
-To run the tests, use the following command: <br>
- ```bash
+To run the tests, use the following command:
+
+bash
+Copy code
 ./mvnw test
-<br>
+
 
 🔮 Future Enhancements
 We have exciting plans to expand the system’s capabilities in the future, such as:
