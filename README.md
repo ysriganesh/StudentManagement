@@ -76,15 +76,9 @@ Follow these steps to get the project up and running:
    ```bash
    git clone https://github.com/username/student-management-system.git
 
-<br> 
-2. **Navigate to the Project Directory**:
-   ```bash
-     cd student-management-system
-<br>
-Build and Run the Project:
-bash
-Copy code
-./mvnw spring-boot:run
+
+cd student-management-system
+
 ✅ Testing
 Unit tests are provided using JUnit and Mockito to ensure that the service methods and endpoints function correctly.
 
