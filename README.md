@@ -82,12 +82,10 @@ Follow these steps to get the project up and running:
     ```bash
     cd student-management-system
 
-cd student-management-system
-Build and Run the Project:
+3. **Build and Run the Project**:
 
-bash
-Copy code
-./mvnw spring-boot:run
+   ```bash
+   ./mvnw spring-boot:run
 Run the Tests:
 
 bash
