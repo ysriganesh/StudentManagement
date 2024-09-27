@@ -79,14 +79,13 @@ Follow these steps to get the project up and running:
 <br> 
 Navigate to the Project Directory:
 <br>
-bash
-Copy code
+ ```bash
 cd student-management-system
 
 ## Build and Run the Project:
 <br>
-bash
-Copy code
+ ```bash
+
 ./mvnw spring-boot:run
 
 <br>
@@ -94,6 +93,7 @@ Copy code
 Unit tests are provided using JUnit and Mockito to ensure that the service methods and endpoints function correctly.
 
 To run the tests, use the following command: <br>
+ ```bash
 ./mvnw test
 <br>
 
