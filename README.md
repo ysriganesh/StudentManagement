@@ -94,7 +94,7 @@ Follow these steps to get the project up and running:
 
 ---
 
-✅ Testing
+## ✅ Testing
 Unit tests are provided using JUnit and Mockito to ensure that the service methods and endpoints function correctly.
 
 To run the tests, use the following command:
