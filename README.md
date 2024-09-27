@@ -86,28 +86,27 @@ Follow these steps to get the project up and running:
 
    ```bash
    ./mvnw spring-boot:run
-Run the Tests:
+4.**Run the Tests**:
 
-bash
-Copy code
-./mvnw test
+   ```bash
+   ./mvnw test
 
 ✅ Testing
 Unit tests are provided using JUnit and Mockito to ensure that the service methods and endpoints function correctly.
 
 To run the tests, use the following command:
 
-bash
-Copy code
-./mvnw test
+   ```bash
+   ./mvnw test
 
 
 🔮 Future Enhancements
 We have exciting plans to expand the system’s capabilities in the future, such as:
+<br>
 
-🔗 Database Integration: Connect the system with a database like MySQL to store student data permanently.
-📝 Update Functionality: Add the ability to update existing student records.
-⚠️ Input Validation: Ensure that the data entered is correct and follows the required format (e.g., valid email addresses).
+🔗 Database Integration: Connect the system with a database like MySQL to store student data permanently.<br>
+📝 Update Functionality: Add the ability to update existing student records.<br>
+⚠️ Input Validation: Ensure that the data entered is correct and follows the required format (e.g., valid email addresses).<br>
 
 📚 Conclusion
 This project demonstrates how to manage student data using Spring Boot with a RESTful API. While basic in its current form, it can be extended to include features such as database storage, user authentication, and more complex business logic.
